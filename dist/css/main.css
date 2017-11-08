@@ -180,6 +180,9 @@ footer {
     letter-spacing: 0px; } }
 
 @media (max-width: 1024px) {
+  footer {
+    position: relative;
+    padding: 5px; }
   .header_call__title {
     -webkit-box-pack: center;
     -webkit-justify-content: center;
